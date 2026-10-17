@@ -1,1 +1,2 @@
-Library Status: Initial version 
+Library Status: Development branch update
+Development: Prepare library application
