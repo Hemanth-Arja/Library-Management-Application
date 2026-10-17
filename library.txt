@@ -1,2 +1,4 @@
-Library Status: Development branch update
+Library Status: Development and feature merged
 Development: Prepare library application
+Feature: Add book details
+Feature: Add member details
